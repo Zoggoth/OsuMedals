@@ -5,6 +5,8 @@ This ignores reworks, so it's technically incorrect, but this avoids recommendin
 
 A bigger problem is that it doesn't see overwritten plays. The FC medals will be reasonably accurate (people rarely overwrite FCs) but this will affect the passes a lot.
 
-Empty txt files are placeholders for the data from data.ppy.sh.
+Arbitrarily decided 2020 as the cutoff to avoid old maps having too much of an advantage (probably only matters in my mode, catch).
+
+Empty txt files are placeholders for the data from data.ppy.sh to make it easier for someone else to run this
 
 I'm not running this every month, if someone from the medal hunter community wants to do so, go right ahead.
